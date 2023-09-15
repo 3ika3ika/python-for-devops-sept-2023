@@ -19,7 +19,7 @@ Build out python project scaffold:
 * Microservice
 
 1. Create a virtualenv: `virtualenv ~/.venv`
-2. Edit my `~/.bashrc`: open new line (o) and add `source ~/.venv/bin/activate`
+2. Edit my `~/.bashrc` with vim: open new line (o) and add `source ~/.venv/bin/activate`
 
 ### AWS CloudShell
 ### AWS Cloud9
