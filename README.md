@@ -11,6 +11,7 @@ Create a development environment that is cloud-based
 
 Build out python project scaffold:
 * Makefile
+  `install:pip install --upgrade pip &&/pip install -r requirements.txt`
 * requirements.txt
 * test_library.py
 * python_library
