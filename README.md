@@ -1,3 +1,5 @@
+[![Test multiple Python Versions](https://github.com/3ika3ika/python-for-devops-sept-2023/actions/workflows/main.yml/badge.svg)](https://github.com/3ika3ika/python-for-devops-sept-2023/actions/workflows/main.yml)
+
 # python-for-devops-sept-2023
 From Zero repository for doing python DevOps work 
 
