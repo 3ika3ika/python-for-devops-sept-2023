@@ -23,6 +23,7 @@ Build out python project scaffold:
 
 1. Create a virtualenv: `virtualenv ~/.venv`
 2. Edit my `~/.bashrc` with vim: open new line (o) and add `source ~/.venv/bin/activate`
+3. git clone then run `make all`
 
 ### AWS CloudShell
 ### AWS Cloud9
