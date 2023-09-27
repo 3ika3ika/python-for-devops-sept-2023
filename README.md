@@ -14,9 +14,9 @@ Create a development environment that is cloud-based
 Build out python project scaffold:
 * [Makefile](https://github.com/3ika3ika/python-for-devops-sept-2023/blob/main/Makefile)
   `install:pip install --upgrade pip &&/pip install -r requirements.txt`
-* requirements.txt
-* test_library.py
-* python_library
+* [requirements.txt](https://github.com/3ika3ika/python-for-devops-sept-2023/blob/main/requirements.txt)
+* [test_library.py](https://github.com/3ika3ika/python-for-devops-sept-2023/blob/main/test_devopstib.py)
+* [python_library](https://github.com/3ika3ika/python-for-devops-sept-2023/tree/main/devopslib)
 * Dockerfile
 * command-line-tool
 * Microservice
