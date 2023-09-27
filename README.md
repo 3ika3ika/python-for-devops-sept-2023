@@ -12,7 +12,7 @@ Create a development environment that is cloud-based
 ### GitHub CodeSpaces
 
 Build out python project scaffold:
-* Makefile
+* [Makefile](https://github.com/3ika3ika/python-for-devops-sept-2023/blob/main/Makefile)
   `install:pip install --upgrade pip &&/pip install -r requirements.txt`
 * requirements.txt
 * test_library.py
